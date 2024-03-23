@@ -23,7 +23,6 @@ Ouvrir l'aide :
 ```
 ./zip -h
 Usage: ./zip [OPTION]... [FILE]...
-Imprimé le : 23/03/24 08:44
 Options:
  -h, --help Show this help
  -o, --open Open a zip file for browsing
